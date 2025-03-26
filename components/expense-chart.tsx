@@ -50,13 +50,15 @@ export default function ExpenseChart() {
   }
 
   const colors = [
-    "#3b82f6", // blue
     "#10b981", // emerald
     "#f97316", // orange
-    "#8b5cf6", // violet
     "#ec4899", // pink
-    "#f43f5e", // rose
     "#a3e635", // lime
+    "#f43f5e", // rose
+    "#84cc16", // lime-500
+    "#14b8a6", // teal-500
+    "#d946ef", // fuchsia-500
+    "#f59e0b", // amber-500
     "#64748b", // slate
   ]
 
